@@ -1,4 +1,4 @@
-# Chris Palavouzis
+# Christos
 
 **Security Consultant | Automation Specialist | Developer**
 
@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi, I'm Chris Palavouzis—a passionate security consultant with a flair for automation and development. My expertise sits at the intersection of cybersecurity and cutting-edge programming, with a particular focus on the Microsoft 365 security landscape.
+Hi, I'm Christos—a passionate security consultant with a flair for automation and development. My expertise sits at the intersection of cybersecurity and cutting-edge programming, with a particular focus on the Microsoft 365 security landscape.
 
 ---
 
