@@ -59,4 +59,4 @@ If you're looking for someone who combines technical prowess with a hacker's min
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Palasito&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=telegram&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=250)](https://git.io/streak-stats)
