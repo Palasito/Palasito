@@ -58,3 +58,5 @@ Hi, I'm Christos—a passionate security consultant with a flair for automation 
 If you're looking for someone who combines technical prowess with a hacker's mindset and a builder's heart, let's chat. Whether it's securing your environment, automating the mundane, or bringing a project to life, I'm ready to dive in.
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Palasito&theme=dark)](https://git.io/streak-stats)
