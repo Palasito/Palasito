@@ -39,7 +39,7 @@ Hi, I'm Christos—a passionate security consultant with a flair for automation 
 
 ## 🧰 Tech Toolbox
 
-- **Programming Languages**: C#, Python, PowerShell
+- **Programming Languages**: C#, Python, PowerShell, TypeScript
 - **Cloud & Security**: Microsoft 365, Azure, Intune, Entra ID, Defender, Purview
 - **DevOps/Automation**: CI/CD pipelines, scripting, API integrations
 
