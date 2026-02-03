@@ -59,4 +59,4 @@ If you're looking for someone who combines technical prowess with a hacker's min
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Palasito&theme=telegram&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Palasito&background=transparent&theme=telegram&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
